@@ -1,0 +1,33 @@
+
+body{
+    background-color: #9f89b3;
+    color: black;
+    font-family:cursive; 
+}
+
+p {
+    color: bisque;
+}
+
+h1{
+    color: aquamarine;
+}
+
+.titulo-web{
+    color: blue;
+    font-size: small;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.michi-capy{
+    width: 300px;
+    height: 250px
+}
+
+.link2 {
+    color: bisque;
+}
